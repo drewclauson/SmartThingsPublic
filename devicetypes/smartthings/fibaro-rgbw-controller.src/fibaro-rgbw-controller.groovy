@@ -22,7 +22,7 @@
 
  metadata {
 
-	definition (name: "Fibaro RGBW Controller", namespace: "smartthings", author: "Todd Wackford") {
+	definition (name: "Fibaro RGBW Controller - Param 14", namespace: "smartthings", author: "Todd Wackford") {
 		capability "Switch Level"
 		capability "Actuator"
 		capability "Switch"
